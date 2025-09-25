@@ -51,10 +51,6 @@ const rizo: BackendDeveloper = {
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=retrizo&theme=dark&hide_border=true&background=000000&stroke=9333EA&ring=A855F7&fire=C084FC&currStreakLabel=9333EA"/>
 </div>
 
-<div align="center">
-  <img alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=retrizo&theme=github_dark"/>
-</div>
-
 ---
 
 ## Tech Stack & Expertise
