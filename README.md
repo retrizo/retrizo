@@ -66,12 +66,6 @@ const rizo: BackendDeveloper = {
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" title="Lua"/>
 
-### 🚀 **Backend Frameworks & Libraries**
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-9333EA?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-
 ###  **Creative & Multimedia Tools**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" title="Adobe Photoshop"/>
 <img width="12"/>
