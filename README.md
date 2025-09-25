@@ -16,7 +16,6 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9333EA?style=for-the-badge&logoColor=white)]([your-portfolio-url](https://github.com/retrizo))
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoretrizo@gmail.com)
 
 </div>
 
