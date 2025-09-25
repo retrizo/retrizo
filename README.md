@@ -121,22 +121,16 @@ const rizo: BackendDeveloper = {
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:contatoretrizo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-<a href="your-instagram-url">
+<a href="https://www.instagram.com/retrizovt">
   <img src="https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="your-discord-url">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="your-linkedin-url">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
-</a>
-<a href="your-twitch-url">
+</a> 
+<a href="https://www.twitch.tv/retrizo">
   <img src="https://img.shields.io/badge/Twitch-9333EA?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
-<a href="your-youtube-url">
+<a href="https://www.youtube.com/@retrizo">
   <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
@@ -146,11 +140,9 @@ const rizo: BackendDeveloper = {
 
 <div align="center">
 
-### 💡 *"The frontend is what users see, the backend is what makes it work"*
+###
 
 **⭐ If you like what you see, don't forget to star some repositories!**
-
-*Building servers, crafting APIs, optimizing databases* 🔧✨
 
 </div>
 
