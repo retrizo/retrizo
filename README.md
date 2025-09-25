@@ -15,9 +15,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9333EA?style=for-the-badge&logoColor=white)](your-portfolio-url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=9333EA)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9333EA?style=for-the-badge&logoColor=white)]([your-portfolio-url](https://github.com/retrizo))
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoretrizo@gmail.com)
 
 </div>
 
@@ -121,8 +120,6 @@ const rizo: BackendDeveloper = {
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-
-**🚀 Ready for backend challenges • 💼 Open to server-side opportunities • 🌟 Let's build scalable systems**
 
 <a href="mailto:your.email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
