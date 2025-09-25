@@ -1,77 +1,117 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&text=&fontColor=ffffff"/>
+# 👋 Hello, I'm RIZO
 
 <div align="center">
+  
+### Full Stack Developer • UI/UX Designer • Problem Solver
 
-  <samp>
-    <b>`プログラマ`</b>
-    <br/>
-    Hi! I'm <b>RIZO</b>
-  </samp>
+**Transforming ideas into scalable digital solutions**
 
-  <br/><br/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-  <!-- Typing Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=22&center=true&lines=Indie+Developer;FiveM+%7C+QBCore%2FQbox;UI%2FUX+Cyberpunk+Inspired;Always+iterating" alt="typing intro"/>
-
-</div>
-
-<br/>
-
-<!-- Stats -->
-<div align="center">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=retrizo&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true"/>
-  <img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrizo&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true"/>
-  <br/><br/>
-  <img alt="profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=retrizo&theme=github_dark"/>
 </div>
 
 ---
 
-### ⚙️ Tech Stack
+## 🚀 About Me
+
+```typescript
+const rizo = {
+    location: "Brazil 🇧🇷",
+    currentFocus: "Full Stack Development",
+    specialties: ["FiveM Development", "QBCore/Qbox", "Cyberpunk UI/UX"],
+    mindset: "Always learning, always building",
+    available: true
+};
+```
+
+**Currently seeking opportunities in:** Frontend Development, Full Stack Development, UI/UX Design
+
+---
+
+## 💼 Tech Stack & Expertise
+
+### 🔧 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### 🎨 Design & Tools
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="Lua" title="Lua"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=retrizo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrizo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=retrizo&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
 
-### 🛠️ Tools
+## 🏆 Highlights
 
-<div align="center">
-  <!-- Editors -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" title="VS Code"/>
-  <img width="12"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="36" alt="Cursor" title="Cursor"/>
-  <img width="20"/>
-  <!-- Creative -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="36" alt="Photoshop" title="Adobe Photoshop"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="36" alt="Premiere Pro" title="Adobe Premiere Pro"/>
-</div>
-
-
+- 🎮 **FiveM Development Expert** - Specialized in QBCore/Qbox frameworks
+- 🎨 **UI/UX Designer** - Cyberpunk aesthetic and modern interfaces
+- 💻 **Full Stack Developer** - End-to-end application development
+- 🌟 **Open Source Contributor** - Committed to community-driven development
 
 ---
 
-### 🔗 Links
+## 🔥 Featured Projects
+
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+  
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=retrizo&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/retrizo/your-project-1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=retrizo&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/retrizo/your-project-2)
+
 </div>
 
 ---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+## 🤝 Let's Connect
+
+I'm always interested in discussing new opportunities, collaborating on projects, or just having a tech chat!
+
+<div align="center">
+
+**Open to work • Available for freelance • Ready for full-time opportunities**
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](your-discord-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ If you find my work interesting, feel free to star some repositories!**
+
+*"Code is poetry written in logic"*
+
+</div>
