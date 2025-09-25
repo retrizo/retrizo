@@ -92,13 +92,6 @@ const rizo: BackendDeveloper = {
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
 
-###  **Data & Infrastructure**
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9333EA?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
-
 </div>
 
 ---
